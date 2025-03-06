@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 100,
+            "server": "mysqldchen.mysql.database.azure.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "ads507azure",
+            "database": "icpsr_03088",
+            "username": "dchenAdmin",
+            "password": "507password!",
+            "connectionTimeout": 30
+        }
+    ]
+}
